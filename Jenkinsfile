@@ -10,7 +10,7 @@ stage('CheckoutCode'){
     git 'https://github.com/Ahmad-GitOps-DevOps/webapp'
 }
 }
-stage("Build"){ 
+stage("Builds"){ 
   steps{
     common("Builds")
 }
