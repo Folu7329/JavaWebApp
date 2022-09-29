@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Liman New tech Technologies !!!</h1>
+<h1 align="center">Folu New tech Technologies !!!</h1>
 <h2 align="center"> Welcome to my Technology World.
 	my Technology is a an ideal online training  platform for DevOps, Plaform and Cloud Engineers. 
 	We offer interview preparations and job assitance.Dev !! </h2>
